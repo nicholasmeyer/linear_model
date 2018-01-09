@@ -65,6 +65,7 @@ double square (double x)
 {
 	return (double)(x * x);
 }
+
 double tol_err(double *beta_0,double *beta_1,double *x,double *y)
 {
 	double total_error = 0;
