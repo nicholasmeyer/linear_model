@@ -61,7 +61,7 @@ char **split(char *string, int *num_entries, char *sep)
     return split_string;
 }
 
-double square (double x)
+double square(double x)
 {
 	return (double)(x * x);
 }
