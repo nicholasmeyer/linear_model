@@ -1,4 +1,15 @@
-# linear_model
-ordinary least sqaures model using gradient decent optimization  
-compile: make  
+### Linear regression model
+
+Implementation of ordinary least sqaures using gradient decent optimization
+
+### Compile 
+
+```
+compile: make 
+```
+
+### Run
+
+```
 run: ./linear_model data.csv  
+```
